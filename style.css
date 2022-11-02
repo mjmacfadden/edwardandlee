@@ -51,6 +51,9 @@ HEADER
     text-transform:uppercase;
     font-weight:400;
 }
+.header h1 a{
+    text-decoration-line: none;
+}
 /*
 =================================================
 NAVIGATION

@@ -27,7 +27,7 @@
             <div class="container header">
                 <div class="row">
                     <div class="col">
-                        <h1>Edward And Lee</h1>
+                        <h1><a href="/" alt="Edward and Lee LLC">Edward And Lee LLC</a></h1>
                     </div>
                 </div>
             </div>
