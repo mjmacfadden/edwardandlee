@@ -31,7 +31,7 @@ a:hover{
     max-width: 940px;
 }
 .row{
-    padding:0 30px;
+    padding:0 15px;
 }
 
 /*
@@ -58,7 +58,7 @@ NAVIGATION
 */
 .nav-wrapper{
     max-width:940px;
-    padding:0 40px;
+    padding:0 25px;
     background:#FFF;
 }
 .navbar{
