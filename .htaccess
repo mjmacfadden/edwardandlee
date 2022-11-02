@@ -1,1 +1,7 @@
-Redirect /home /index.html
+RedirectMatch 301 ^/home /index.html
+RedirectMatch 301 ^/developing_news /developing_news.html
+RedirectMatch 301 ^/target_markets /target_markets.html
+RedirectMatch 301 ^/product_descriptions /product_descriptions.html
+RedirectMatch 301 ^/downloads /downloads.html
+RedirectMatch 301 ^/free_marketing_tools /free_marketing_tools.html
+RedirectMatch 301 ^/contact_us /contact_us.html
