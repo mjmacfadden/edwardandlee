@@ -26,6 +26,11 @@ a{
 a:hover{
     color:#b10c1d;
 }
+.error{
+    color:#000;
+    font-weight:700;
+    font-size:150px;
+}
 .container{
     background:#FFFFFF;
     max-width: 940px;
